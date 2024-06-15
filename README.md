@@ -17,6 +17,7 @@ Create a new POST request.
 Set the URL to http://127.0.0.1:5000/login.
 
 Go to the "Body" tab, select "raw", and choose "JSON" from the dropdown menu.
+
 {
     "username": "user1",
     "password": "pass123"
@@ -31,6 +32,7 @@ Set the URL to http://127.0.0.1:5000/logout.
 Go to the "Body" tab, select "raw", and choose "JSON" from the dropdown menu.
 
 Enter the following JSON data:
+
 {
     "username": "user1"
 }
