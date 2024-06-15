@@ -1,7 +1,9 @@
 # AI_Anomaly_Detection
 
 **Download "POSTMAN" app.**
+
 https://www.postman.com/downloads/
+
 After setting up the postman application.
 
 **NOTE --- While doing operation in Postman the server flask app should be running.**
